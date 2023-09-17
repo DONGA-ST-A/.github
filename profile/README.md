@@ -17,12 +17,7 @@
 
 ## 🛠️ Stack
 ### Frontend
-- 메인 프레임워크 : React
-- 언어 : TypeScript
-- 빌드 : vite
-- 전역 상태 관리 : Recoil
-- 통신 : axios
-- CSS : styled component
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110888511/268506149-b0fafed8-5b67-4107-ae4c-50f1d40f8923.png"  width="480">
 <br>
 
 ### Backend
