@@ -17,7 +17,7 @@
 
 ## 🛠️ Stack
 ### Frontend
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110888511/268506149-b0fafed8-5b67-4107-ae4c-50f1d40f8923.png"  width="480">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110888511/268506149-b0fafed8-5b67-4107-ae4c-50f1d40f8923.png"  width="360">
 <br>
 
 ### Backend
